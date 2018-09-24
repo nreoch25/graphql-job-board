@@ -5,7 +5,6 @@ import { loadJob } from "./requests";
 export class JobDetail extends Component {
   constructor(props) {
     super(props);
-    const { jobId } = this.props.match.params;
     this.state = { job: null };
   }
   async componentDidMount() {
