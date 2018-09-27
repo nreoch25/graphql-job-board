@@ -40,5 +40,35 @@
     "companyId": "HJRa-DOuG",
     "title": "Senior Technical Architect",
     "description": "This is a team lead and architect position."
+  },
+  {
+    "id": "rJEV_o9KX",
+    "companyId": "HJRa-DOuG",
+    "title": "Devops Engineer",
+    "description": "Manage our google cloud platform."
+  },
+  {
+    "id": "rJSJk3qFQ",
+    "companyId": "HJRa-DOuG",
+    "title": "Junior Developer",
+    "description": "Junior React developer"
+  },
+  {
+    "id": "rkoX-2qtQ",
+    "companyId": "HJRa-DOuG",
+    "title": "Intermediate Full-stack developer",
+    "description": "intermediate nodejs and react developer"
+  },
+  {
+    "id": "HkgHE39YQ",
+    "companyId": "HJRa-DOuG",
+    "title": "Technical Solutions Architect",
+    "description": "Draw diagrams of System architecture"
+  },
+  {
+    "id": "S1kRFncYX",
+    "companyId": "HJRa-DOuG",
+    "title": "Senior System Administrator",
+    "description": "Take care of our Network."
   }
 ]
