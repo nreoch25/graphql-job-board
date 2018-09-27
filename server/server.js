@@ -24,7 +24,13 @@ app.use(
     credentialsRequired: false
   })
 );
-app.use("/graphql", graphqlExpress({ schema }));
+app.use(
+  "/graphql",
+  graphqlExpress(req => ({
+    schema,
+    context: { user: req.user && db.users.get(req.user.sub) }
+  }))
+);
 app.use("/graphiql", graphiqlExpress({ endpointURL: "/graphql" }));
 
 app.post("/login", (req, res) => {

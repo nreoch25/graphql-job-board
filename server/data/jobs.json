@@ -16,5 +16,29 @@
     "companyId": "SJV0-wdOM",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "rkCGq_9Ym",
+    "companyId": "SJV0-wdOM",
+    "title": "Senior Full-stack Developer",
+    "description": "Full-stack developer using Nodejs, React, and Redux"
+  },
+  {
+    "id": "SyHcCdcK7",
+    "companyId": "SJV0-wdOM",
+    "title": "Senior Front-end developer",
+    "description": "We need a javascript and css expert."
+  },
+  {
+    "id": "H1Er5q5YQ",
+    "companyId": "SJV0-wdOM",
+    "title": "Technical Lead Developer",
+    "description": "You are a great lead developer."
+  },
+  {
+    "id": "BJjba5qtQ",
+    "companyId": "HJRa-DOuG",
+    "title": "Senior Technical Architect",
+    "description": "This is a team lead and architect position."
   }
 ]
