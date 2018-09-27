@@ -70,5 +70,11 @@
     "companyId": "HJRa-DOuG",
     "title": "Senior System Administrator",
     "description": "Take care of our Network."
+  },
+  {
+    "id": "HyVZA2qtQ",
+    "companyId": "HJRa-DOuG",
+    "title": "QA Automation Developer",
+    "description": "Create tests for the application"
   }
 ]
